@@ -7,3 +7,5 @@ def printMessage(message):
 if __name__ == "__main__":
     msg = 'Hello World'
     printMessage(msg)
+    msg = 'Comit Successful'
+    printMessage(msg)
