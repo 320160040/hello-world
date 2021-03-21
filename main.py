@@ -9,3 +9,5 @@ if __name__ == "__main__":
     printMessage(msg)
     msg = 'Comit Successful'
     printMessage(msg)#
+    msg = 'Terminal Comit and merge Successful'
+    printMessage(msg)#
